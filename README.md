@@ -6,3 +6,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m passionate about building apps that can make a difference in people's lives!
 ✨ All from GPT :V ✨
+name: generate-snake-game-from-github-contribution-grid
+uses: Platane/snk@v3.3.0
